@@ -1,0 +1,5 @@
+.interface .background {
+	background: url(https://i.imgur.com/3BcbdGt.jpeg) repeat !important;
+	background-size: contain;
+	animation: animate 10s linear infinite !important;
+}
