@@ -1,5 +1,7 @@
 .interface .background {
-	background: url(https://i.imgur.com/RJUk52r.mp4) repeat !important;
+	           background :<video autoplay muted loop id="myVideo">
+                    <source src="https://i.imgur.com/RJUk52r.mp4" type="video/mp4">
+                    </video> repeat !important;
 	background-size: 1366px 768px;
 	animation: animate 10s linear infinite !important;
 }
