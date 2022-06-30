@@ -1,0 +1,5 @@
+.interface .background {
+	background: url(https://media2.giphy.com/media/e15yaJp0Zh6onvtOFv/giphy.gif?cid=790b761156b80344a51510d049d6dc8ffa9e087cd91d3e5c&rid=giphy.gif&ct=g) !important;
+	background-size: 1366px 768px;
+	animation: animate 10s linear infinite !important;
+}
