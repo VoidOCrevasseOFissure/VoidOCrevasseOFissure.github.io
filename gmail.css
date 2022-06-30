@@ -1,0 +1,5 @@
+.interface .background {
+	background: url(https://drive.google.com/file/d/1RfFodaeAnkJP9m7LI37M5t5BDgLDe3zp) !important;
+	background-size: 1366px 768px;
+	animation: animate 10s linear infinite !important;
+}
