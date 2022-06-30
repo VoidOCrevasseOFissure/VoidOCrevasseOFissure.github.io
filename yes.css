@@ -1,0 +1,5 @@
+.interface .background {
+	background: url(https://s8.gifyu.com/images/AnimeBGNew.gif) !important;
+	background-size: 1366px 768px;
+	animation: animate 10s linear infinite !important;
+}
