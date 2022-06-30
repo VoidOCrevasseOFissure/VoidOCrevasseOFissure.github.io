@@ -1,0 +1,5 @@
+.interface .background {
+	background: url(https://i.imgur.com/pVoDaei.mp4) !important;
+	background-size: 1366px 768px;
+	animation: animate 10s linear infinite !important;
+}
